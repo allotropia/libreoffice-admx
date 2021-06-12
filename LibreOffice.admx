@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- (c) 2015 Collabora Ltd. CC-BY-SA 4.0 -->
 <!-- (c) 2020 CIB software GmbH CC-BY-SA 4.0 -->
+<!-- (c) 2021 allotropia software GmbH CC-BY-SA 4.0 -->
 <policyDefinitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
   <policyNamespaces>
-    <target prefix="LOpbC" namespace="CIB.Policies.LibreOffice" />
+    <target prefix="LO" namespace="allotropia.Policies.LibreOffice" />
     <using prefix="windows" namespace="Microsoft.Policies.Windows" />
   </policyNamespaces>
   <supersededAdm fileName="" />
