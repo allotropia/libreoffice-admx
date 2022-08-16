@@ -1,5 +1,5 @@
 # ADMX Template for LibreOffice
-Windows Group Policy Template for [LibreOffice LTS](https://allotropia.de/) (also usable with [LibreOffice](https://www.libreoffice.org/)).
+Windows Group Policy Template for [AlloOffice](https://allotropia.de/) (also usable with [LibreOffice](https://www.libreoffice.org/)).
 
 ### Attention
 When you add a "policy" in the admx file, add the corresponding "presentation" in all adml files (not just in your language).
