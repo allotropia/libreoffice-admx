@@ -5853,12 +5853,30 @@
       <supportedOn ref="supported_LibreOffice_4_2" />
       <elements>
         <boolean id="Value" valueName="Value">
-          <trueValue>
-            <string>true</string>
-          </trueValue>
-          <falseValue>
-            <string>false</string>
-          </falseValue>
+          <trueList>
+            <item key="Software\Policies\LibreOffice\org.openoffice.Office.Jobs\Jobs\UpdateCheck\Arguments\AutoCheckEnabled" valueName="Value">
+              <value>
+                <string>true</string>
+              </value>
+            </item>
+            <item key="Software\Policies\LibreOffice\org.openoffice.Office.Jobs\Jobs\UpdateCheck\Arguments\AutoCheckEnabled" valueName="Type">
+              <value>
+                <string>xs:boolean</string>
+              </value>
+            </item>
+          </trueList>
+          <falseList>
+            <item key="Software\Policies\LibreOffice\org.openoffice.Office.Jobs\Jobs\UpdateCheck\Arguments\AutoCheckEnabled" valueName="Value">
+              <value>
+                <string>false</string>
+              </value>
+            </item>
+            <item key="Software\Policies\LibreOffice\org.openoffice.Office.Jobs\Jobs\UpdateCheck\Arguments\AutoCheckEnabled" valueName="Type">
+              <value>
+                <string>xs:boolean</string>
+              </value>
+            </item>
+          </falseList>
         </boolean>
         <boolean id="Final" valueName="Final" />
       </elements>
