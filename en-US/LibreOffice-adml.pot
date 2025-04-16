@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-04-16 14:22+0200\n"
+"POT-Creation-Date: 2025-04-16 14:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,255 +75,270 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:21
-#: en-US/LibreOffice.adml:777
-#: en-US/LibreOffice.adml:781
-#: en-US/LibreOffice.adml:785
-#: en-US/LibreOffice.adml:789
-#: en-US/LibreOffice.adml:793
-#: en-US/LibreOffice.adml:795
-#: en-US/LibreOffice.adml:799
-#: en-US/LibreOffice.adml:803
-#: en-US/LibreOffice.adml:807
-#: en-US/LibreOffice.adml:811
-#: en-US/LibreOffice.adml:815
-#: en-US/LibreOffice.adml:823
-#: en-US/LibreOffice.adml:829
-#: en-US/LibreOffice.adml:837
-#: en-US/LibreOffice.adml:843
-#: en-US/LibreOffice.adml:851
-#: en-US/LibreOffice.adml:857
-#: en-US/LibreOffice.adml:865
-#: en-US/LibreOffice.adml:871
-#: en-US/LibreOffice.adml:879
-#: en-US/LibreOffice.adml:885
+#: en-US/LibreOffice.adml:766
+#: en-US/LibreOffice.adml:770
+#: en-US/LibreOffice.adml:774
+#: en-US/LibreOffice.adml:778
+#: en-US/LibreOffice.adml:782
+#: en-US/LibreOffice.adml:784
+#: en-US/LibreOffice.adml:788
+#: en-US/LibreOffice.adml:792
+#: en-US/LibreOffice.adml:796
+#: en-US/LibreOffice.adml:800
+#: en-US/LibreOffice.adml:804
+#: en-US/LibreOffice.adml:808
+#: en-US/LibreOffice.adml:812
+#: en-US/LibreOffice.adml:816
+#: en-US/LibreOffice.adml:820
+#: en-US/LibreOffice.adml:877
+#: en-US/LibreOffice.adml:882
+#: en-US/LibreOffice.adml:887
 #: en-US/LibreOffice.adml:893
-#: en-US/LibreOffice.adml:901
-#: en-US/LibreOffice.adml:909
-#: en-US/LibreOffice.adml:917
+#: en-US/LibreOffice.adml:899
+#: en-US/LibreOffice.adml:905
+#: en-US/LibreOffice.adml:912
+#: en-US/LibreOffice.adml:914
+#: en-US/LibreOffice.adml:919
 #: en-US/LibreOffice.adml:921
-#: en-US/LibreOffice.adml:925
-#: en-US/LibreOffice.adml:929
+#: en-US/LibreOffice.adml:926
+#: en-US/LibreOffice.adml:928
 #: en-US/LibreOffice.adml:933
-#: en-US/LibreOffice.adml:990
+#: en-US/LibreOffice.adml:935
+#: en-US/LibreOffice.adml:940
+#: en-US/LibreOffice.adml:942
+#: en-US/LibreOffice.adml:949
+#: en-US/LibreOffice.adml:951
+#: en-US/LibreOffice.adml:956
+#: en-US/LibreOffice.adml:958
+#: en-US/LibreOffice.adml:963
+#: en-US/LibreOffice.adml:965
+#: en-US/LibreOffice.adml:970
+#: en-US/LibreOffice.adml:972
+#: en-US/LibreOffice.adml:977
+#: en-US/LibreOffice.adml:979
+#: en-US/LibreOffice.adml:986
+#: en-US/LibreOffice.adml:988
+#: en-US/LibreOffice.adml:993
 #: en-US/LibreOffice.adml:995
 #: en-US/LibreOffice.adml:1000
-#: en-US/LibreOffice.adml:1006
-#: en-US/LibreOffice.adml:1012
-#: en-US/LibreOffice.adml:1018
-#: en-US/LibreOffice.adml:1025
-#: en-US/LibreOffice.adml:1027
+#: en-US/LibreOffice.adml:1002
+#: en-US/LibreOffice.adml:1007
+#: en-US/LibreOffice.adml:1009
+#: en-US/LibreOffice.adml:1014
+#: en-US/LibreOffice.adml:1016
+#: en-US/LibreOffice.adml:1020
+#: en-US/LibreOffice.adml:1024
+#: en-US/LibreOffice.adml:1028
 #: en-US/LibreOffice.adml:1032
-#: en-US/LibreOffice.adml:1034
-#: en-US/LibreOffice.adml:1039
-#: en-US/LibreOffice.adml:1041
-#: en-US/LibreOffice.adml:1046
-#: en-US/LibreOffice.adml:1048
-#: en-US/LibreOffice.adml:1053
-#: en-US/LibreOffice.adml:1055
+#: en-US/LibreOffice.adml:1038
+#: en-US/LibreOffice.adml:1044
+#: en-US/LibreOffice.adml:1050
+#: en-US/LibreOffice.adml:1056
 #: en-US/LibreOffice.adml:1062
-#: en-US/LibreOffice.adml:1064
-#: en-US/LibreOffice.adml:1069
-#: en-US/LibreOffice.adml:1071
+#: en-US/LibreOffice.adml:1068
+#: en-US/LibreOffice.adml:1072
 #: en-US/LibreOffice.adml:1076
-#: en-US/LibreOffice.adml:1078
-#: en-US/LibreOffice.adml:1083
-#: en-US/LibreOffice.adml:1085
-#: en-US/LibreOffice.adml:1090
+#: en-US/LibreOffice.adml:1080
+#: en-US/LibreOffice.adml:1084
+#: en-US/LibreOffice.adml:1088
 #: en-US/LibreOffice.adml:1092
-#: en-US/LibreOffice.adml:1099
-#: en-US/LibreOffice.adml:1101
-#: en-US/LibreOffice.adml:1106
+#: en-US/LibreOffice.adml:1096
+#: en-US/LibreOffice.adml:1100
+#: en-US/LibreOffice.adml:1104
 #: en-US/LibreOffice.adml:1108
-#: en-US/LibreOffice.adml:1113
-#: en-US/LibreOffice.adml:1115
+#: en-US/LibreOffice.adml:1112
+#: en-US/LibreOffice.adml:1116
 #: en-US/LibreOffice.adml:1120
-#: en-US/LibreOffice.adml:1122
 #: en-US/LibreOffice.adml:1127
-#: en-US/LibreOffice.adml:1129
-#: en-US/LibreOffice.adml:1133
-#: en-US/LibreOffice.adml:1137
-#: en-US/LibreOffice.adml:1141
-#: en-US/LibreOffice.adml:1145
+#: en-US/LibreOffice.adml:1131
+#: en-US/LibreOffice.adml:1135
+#: en-US/LibreOffice.adml:1139
+#: en-US/LibreOffice.adml:1143
+#: en-US/LibreOffice.adml:1147
 #: en-US/LibreOffice.adml:1151
-#: en-US/LibreOffice.adml:1157
+#: en-US/LibreOffice.adml:1155
+#: en-US/LibreOffice.adml:1159
 #: en-US/LibreOffice.adml:1163
-#: en-US/LibreOffice.adml:1169
+#: en-US/LibreOffice.adml:1167
+#: en-US/LibreOffice.adml:1171
 #: en-US/LibreOffice.adml:1175
-#: en-US/LibreOffice.adml:1181
-#: en-US/LibreOffice.adml:1185
-#: en-US/LibreOffice.adml:1189
-#: en-US/LibreOffice.adml:1193
-#: en-US/LibreOffice.adml:1197
-#: en-US/LibreOffice.adml:1201
-#: en-US/LibreOffice.adml:1205
-#: en-US/LibreOffice.adml:1209
-#: en-US/LibreOffice.adml:1213
-#: en-US/LibreOffice.adml:1217
-#: en-US/LibreOffice.adml:1221
-#: en-US/LibreOffice.adml:1225
-#: en-US/LibreOffice.adml:1229
-#: en-US/LibreOffice.adml:1233
-#: en-US/LibreOffice.adml:1240
-#: en-US/LibreOffice.adml:1244
-#: en-US/LibreOffice.adml:1248
-#: en-US/LibreOffice.adml:1252
-#: en-US/LibreOffice.adml:1256
-#: en-US/LibreOffice.adml:1260
-#: en-US/LibreOffice.adml:1264
-#: en-US/LibreOffice.adml:1268
-#: en-US/LibreOffice.adml:1272
-#: en-US/LibreOffice.adml:1276
-#: en-US/LibreOffice.adml:1280
-#: en-US/LibreOffice.adml:1284
-#: en-US/LibreOffice.adml:1288
-#: en-US/LibreOffice.adml:1292
-#: en-US/LibreOffice.adml:1296
-#: en-US/LibreOffice.adml:1300
-#: en-US/LibreOffice.adml:1304
-#: en-US/LibreOffice.adml:1308
-#: en-US/LibreOffice.adml:1312
-#: en-US/LibreOffice.adml:1316
-#: en-US/LibreOffice.adml:1320
-#: en-US/LibreOffice.adml:1324
-#: en-US/LibreOffice.adml:1328
-#: en-US/LibreOffice.adml:1332
-#: en-US/LibreOffice.adml:1336
-#: en-US/LibreOffice.adml:1340
-#: en-US/LibreOffice.adml:1344
-#: en-US/LibreOffice.adml:1348
-#: en-US/LibreOffice.adml:1352
-#: en-US/LibreOffice.adml:1356
-#: en-US/LibreOffice.adml:1360
-#: en-US/LibreOffice.adml:1364
-#: en-US/LibreOffice.adml:1368
-#: en-US/LibreOffice.adml:1372
-#: en-US/LibreOffice.adml:1376
-#: en-US/LibreOffice.adml:1380
-#: en-US/LibreOffice.adml:1384
-#: en-US/LibreOffice.adml:1388
-#: en-US/LibreOffice.adml:1392
-#: en-US/LibreOffice.adml:1396
-#: en-US/LibreOffice.adml:1400
-#: en-US/LibreOffice.adml:1404
-#: en-US/LibreOffice.adml:1408
-#: en-US/LibreOffice.adml:1412
-#: en-US/LibreOffice.adml:1416
-#: en-US/LibreOffice.adml:1420
-#: en-US/LibreOffice.adml:1424
-#: en-US/LibreOffice.adml:1428
-#: en-US/LibreOffice.adml:1432
-#: en-US/LibreOffice.adml:1436
-#: en-US/LibreOffice.adml:1440
-#: en-US/LibreOffice.adml:1444
-#: en-US/LibreOffice.adml:1448
-#: en-US/LibreOffice.adml:1452
-#: en-US/LibreOffice.adml:1456
-#: en-US/LibreOffice.adml:1460
-#: en-US/LibreOffice.adml:1464
-#: en-US/LibreOffice.adml:1468
-#: en-US/LibreOffice.adml:1472
-#: en-US/LibreOffice.adml:1476
-#: en-US/LibreOffice.adml:1480
-#: en-US/LibreOffice.adml:1484
-#: en-US/LibreOffice.adml:1488
-#: en-US/LibreOffice.adml:1492
-#: en-US/LibreOffice.adml:1496
-#: en-US/LibreOffice.adml:1500
-#: en-US/LibreOffice.adml:1504
-#: en-US/LibreOffice.adml:1508
-#: en-US/LibreOffice.adml:1512
-#: en-US/LibreOffice.adml:1516
-#: en-US/LibreOffice.adml:1520
-#: en-US/LibreOffice.adml:1524
-#: en-US/LibreOffice.adml:1528
-#: en-US/LibreOffice.adml:1532
-#: en-US/LibreOffice.adml:1536
-#: en-US/LibreOffice.adml:1540
-#: en-US/LibreOffice.adml:1544
-#: en-US/LibreOffice.adml:1548
-#: en-US/LibreOffice.adml:1552
-#: en-US/LibreOffice.adml:1556
-#: en-US/LibreOffice.adml:1560
-#: en-US/LibreOffice.adml:1564
-#: en-US/LibreOffice.adml:1568
-#: en-US/LibreOffice.adml:1572
-#: en-US/LibreOffice.adml:1576
-#: en-US/LibreOffice.adml:1580
-#: en-US/LibreOffice.adml:1584
-#: en-US/LibreOffice.adml:1588
-#: en-US/LibreOffice.adml:1592
-#: en-US/LibreOffice.adml:1596
-#: en-US/LibreOffice.adml:1600
-#: en-US/LibreOffice.adml:1604
-#: en-US/LibreOffice.adml:1608
-#: en-US/LibreOffice.adml:1612
-#: en-US/LibreOffice.adml:1616
-#: en-US/LibreOffice.adml:1620
-#: en-US/LibreOffice.adml:1624
-#: en-US/LibreOffice.adml:1628
-#: en-US/LibreOffice.adml:1632
-#: en-US/LibreOffice.adml:1636
-#: en-US/LibreOffice.adml:1640
-#: en-US/LibreOffice.adml:1644
-#: en-US/LibreOffice.adml:1648
-#: en-US/LibreOffice.adml:1652
-#: en-US/LibreOffice.adml:1656
-#: en-US/LibreOffice.adml:1660
-#: en-US/LibreOffice.adml:1664
-#: en-US/LibreOffice.adml:1668
-#: en-US/LibreOffice.adml:1672
-#: en-US/LibreOffice.adml:1676
-#: en-US/LibreOffice.adml:1680
-#: en-US/LibreOffice.adml:1684
-#: en-US/LibreOffice.adml:1688
-#: en-US/LibreOffice.adml:1692
-#: en-US/LibreOffice.adml:1696
-#: en-US/LibreOffice.adml:1700
-#: en-US/LibreOffice.adml:1704
-#: en-US/LibreOffice.adml:1708
-#: en-US/LibreOffice.adml:1712
-#: en-US/LibreOffice.adml:1716
-#: en-US/LibreOffice.adml:1720
-#: en-US/LibreOffice.adml:1724
-#: en-US/LibreOffice.adml:1728
-#: en-US/LibreOffice.adml:1732
-#: en-US/LibreOffice.adml:1736
-#: en-US/LibreOffice.adml:1740
-#: en-US/LibreOffice.adml:1744
-#: en-US/LibreOffice.adml:1748
-#: en-US/LibreOffice.adml:1752
-#: en-US/LibreOffice.adml:1756
-#: en-US/LibreOffice.adml:1760
-#: en-US/LibreOffice.adml:1764
-#: en-US/LibreOffice.adml:1768
-#: en-US/LibreOffice.adml:1772
-#: en-US/LibreOffice.adml:1776
-#: en-US/LibreOffice.adml:1780
-#: en-US/LibreOffice.adml:1784
-#: en-US/LibreOffice.adml:1788
-#: en-US/LibreOffice.adml:1792
-#: en-US/LibreOffice.adml:1796
-#: en-US/LibreOffice.adml:1800
-#: en-US/LibreOffice.adml:1804
-#: en-US/LibreOffice.adml:1808
-#: en-US/LibreOffice.adml:1812
-#: en-US/LibreOffice.adml:1816
-#: en-US/LibreOffice.adml:1820
-#: en-US/LibreOffice.adml:1824
-#: en-US/LibreOffice.adml:1828
-#: en-US/LibreOffice.adml:1832
-#: en-US/LibreOffice.adml:1836
-#: en-US/LibreOffice.adml:1840
-#: en-US/LibreOffice.adml:1844
-#: en-US/LibreOffice.adml:1848
-#: en-US/LibreOffice.adml:1852
-#: en-US/LibreOffice.adml:1856
-#: en-US/LibreOffice.adml:1860
-#: en-US/LibreOffice.adml:1864
-#: en-US/LibreOffice.adml:1868
+#: en-US/LibreOffice.adml:1179
+#: en-US/LibreOffice.adml:1183
+#: en-US/LibreOffice.adml:1187
+#: en-US/LibreOffice.adml:1191
+#: en-US/LibreOffice.adml:1195
+#: en-US/LibreOffice.adml:1199
+#: en-US/LibreOffice.adml:1203
+#: en-US/LibreOffice.adml:1207
+#: en-US/LibreOffice.adml:1211
+#: en-US/LibreOffice.adml:1215
+#: en-US/LibreOffice.adml:1219
+#: en-US/LibreOffice.adml:1223
+#: en-US/LibreOffice.adml:1227
+#: en-US/LibreOffice.adml:1231
+#: en-US/LibreOffice.adml:1235
+#: en-US/LibreOffice.adml:1239
+#: en-US/LibreOffice.adml:1243
+#: en-US/LibreOffice.adml:1247
+#: en-US/LibreOffice.adml:1251
+#: en-US/LibreOffice.adml:1255
+#: en-US/LibreOffice.adml:1259
+#: en-US/LibreOffice.adml:1263
+#: en-US/LibreOffice.adml:1267
+#: en-US/LibreOffice.adml:1271
+#: en-US/LibreOffice.adml:1275
+#: en-US/LibreOffice.adml:1279
+#: en-US/LibreOffice.adml:1283
+#: en-US/LibreOffice.adml:1287
+#: en-US/LibreOffice.adml:1291
+#: en-US/LibreOffice.adml:1295
+#: en-US/LibreOffice.adml:1299
+#: en-US/LibreOffice.adml:1303
+#: en-US/LibreOffice.adml:1307
+#: en-US/LibreOffice.adml:1311
+#: en-US/LibreOffice.adml:1315
+#: en-US/LibreOffice.adml:1319
+#: en-US/LibreOffice.adml:1323
+#: en-US/LibreOffice.adml:1327
+#: en-US/LibreOffice.adml:1331
+#: en-US/LibreOffice.adml:1335
+#: en-US/LibreOffice.adml:1339
+#: en-US/LibreOffice.adml:1343
+#: en-US/LibreOffice.adml:1347
+#: en-US/LibreOffice.adml:1351
+#: en-US/LibreOffice.adml:1355
+#: en-US/LibreOffice.adml:1359
+#: en-US/LibreOffice.adml:1363
+#: en-US/LibreOffice.adml:1367
+#: en-US/LibreOffice.adml:1371
+#: en-US/LibreOffice.adml:1375
+#: en-US/LibreOffice.adml:1379
+#: en-US/LibreOffice.adml:1383
+#: en-US/LibreOffice.adml:1387
+#: en-US/LibreOffice.adml:1391
+#: en-US/LibreOffice.adml:1395
+#: en-US/LibreOffice.adml:1399
+#: en-US/LibreOffice.adml:1403
+#: en-US/LibreOffice.adml:1407
+#: en-US/LibreOffice.adml:1411
+#: en-US/LibreOffice.adml:1415
+#: en-US/LibreOffice.adml:1419
+#: en-US/LibreOffice.adml:1423
+#: en-US/LibreOffice.adml:1427
+#: en-US/LibreOffice.adml:1431
+#: en-US/LibreOffice.adml:1435
+#: en-US/LibreOffice.adml:1439
+#: en-US/LibreOffice.adml:1443
+#: en-US/LibreOffice.adml:1447
+#: en-US/LibreOffice.adml:1451
+#: en-US/LibreOffice.adml:1455
+#: en-US/LibreOffice.adml:1459
+#: en-US/LibreOffice.adml:1463
+#: en-US/LibreOffice.adml:1467
+#: en-US/LibreOffice.adml:1471
+#: en-US/LibreOffice.adml:1475
+#: en-US/LibreOffice.adml:1479
+#: en-US/LibreOffice.adml:1483
+#: en-US/LibreOffice.adml:1487
+#: en-US/LibreOffice.adml:1491
+#: en-US/LibreOffice.adml:1495
+#: en-US/LibreOffice.adml:1499
+#: en-US/LibreOffice.adml:1503
+#: en-US/LibreOffice.adml:1507
+#: en-US/LibreOffice.adml:1511
+#: en-US/LibreOffice.adml:1515
+#: en-US/LibreOffice.adml:1519
+#: en-US/LibreOffice.adml:1523
+#: en-US/LibreOffice.adml:1527
+#: en-US/LibreOffice.adml:1531
+#: en-US/LibreOffice.adml:1535
+#: en-US/LibreOffice.adml:1539
+#: en-US/LibreOffice.adml:1543
+#: en-US/LibreOffice.adml:1547
+#: en-US/LibreOffice.adml:1551
+#: en-US/LibreOffice.adml:1555
+#: en-US/LibreOffice.adml:1559
+#: en-US/LibreOffice.adml:1563
+#: en-US/LibreOffice.adml:1567
+#: en-US/LibreOffice.adml:1571
+#: en-US/LibreOffice.adml:1575
+#: en-US/LibreOffice.adml:1579
+#: en-US/LibreOffice.adml:1583
+#: en-US/LibreOffice.adml:1587
+#: en-US/LibreOffice.adml:1591
+#: en-US/LibreOffice.adml:1595
+#: en-US/LibreOffice.adml:1599
+#: en-US/LibreOffice.adml:1603
+#: en-US/LibreOffice.adml:1607
+#: en-US/LibreOffice.adml:1611
+#: en-US/LibreOffice.adml:1615
+#: en-US/LibreOffice.adml:1619
+#: en-US/LibreOffice.adml:1623
+#: en-US/LibreOffice.adml:1627
+#: en-US/LibreOffice.adml:1631
+#: en-US/LibreOffice.adml:1635
+#: en-US/LibreOffice.adml:1639
+#: en-US/LibreOffice.adml:1643
+#: en-US/LibreOffice.adml:1647
+#: en-US/LibreOffice.adml:1651
+#: en-US/LibreOffice.adml:1655
+#: en-US/LibreOffice.adml:1659
+#: en-US/LibreOffice.adml:1663
+#: en-US/LibreOffice.adml:1667
+#: en-US/LibreOffice.adml:1671
+#: en-US/LibreOffice.adml:1675
+#: en-US/LibreOffice.adml:1679
+#: en-US/LibreOffice.adml:1683
+#: en-US/LibreOffice.adml:1687
+#: en-US/LibreOffice.adml:1691
+#: en-US/LibreOffice.adml:1695
+#: en-US/LibreOffice.adml:1699
+#: en-US/LibreOffice.adml:1703
+#: en-US/LibreOffice.adml:1707
+#: en-US/LibreOffice.adml:1711
+#: en-US/LibreOffice.adml:1715
+#: en-US/LibreOffice.adml:1719
+#: en-US/LibreOffice.adml:1723
+#: en-US/LibreOffice.adml:1727
+#: en-US/LibreOffice.adml:1731
+#: en-US/LibreOffice.adml:1735
+#: en-US/LibreOffice.adml:1739
+#: en-US/LibreOffice.adml:1743
+#: en-US/LibreOffice.adml:1747
+#: en-US/LibreOffice.adml:1751
+#: en-US/LibreOffice.adml:1755
+#: en-US/LibreOffice.adml:1759
+#: en-US/LibreOffice.adml:1763
+#: en-US/LibreOffice.adml:1767
+#: en-US/LibreOffice.adml:1771
+#: en-US/LibreOffice.adml:1775
+#: en-US/LibreOffice.adml:1779
+#: en-US/LibreOffice.adml:1783
+#: en-US/LibreOffice.adml:1787
+#: en-US/LibreOffice.adml:1791
+#: en-US/LibreOffice.adml:1795
+#: en-US/LibreOffice.adml:1799
+#: en-US/LibreOffice.adml:1803
+#: en-US/LibreOffice.adml:1807
+#: en-US/LibreOffice.adml:1811
+#: en-US/LibreOffice.adml:1815
+#: en-US/LibreOffice.adml:1819
+#: en-US/LibreOffice.adml:1823
+#: en-US/LibreOffice.adml:1827
+#: en-US/LibreOffice.adml:1831
+#: en-US/LibreOffice.adml:1835
+#: en-US/LibreOffice.adml:1839
+#: en-US/LibreOffice.adml:1843
+#: en-US/LibreOffice.adml:1847
+#: en-US/LibreOffice.adml:1851
+#: en-US/LibreOffice.adml:1855
+#: en-US/LibreOffice.adml:1859
+#: en-US/LibreOffice.adml:1863
+#: en-US/LibreOffice.adml:1867
 #: en-US/LibreOffice.adml:1872
-#: en-US/LibreOffice.adml:1876
-#: en-US/LibreOffice.adml:1880
+#: en-US/LibreOffice.adml:1874
+#: en-US/LibreOffice.adml:1878
+#: en-US/LibreOffice.adml:1882
 #: en-US/LibreOffice.adml:1884
 #: en-US/LibreOffice.adml:1888
 #: en-US/LibreOffice.adml:1892
@@ -331,60 +346,31 @@ msgstr ""
 #: en-US/LibreOffice.adml:1900
 #: en-US/LibreOffice.adml:1904
 #: en-US/LibreOffice.adml:1908
-#: en-US/LibreOffice.adml:1912
-#: en-US/LibreOffice.adml:1916
-#: en-US/LibreOffice.adml:1920
-#: en-US/LibreOffice.adml:1924
-#: en-US/LibreOffice.adml:1928
-#: en-US/LibreOffice.adml:1932
-#: en-US/LibreOffice.adml:1936
-#: en-US/LibreOffice.adml:1940
-#: en-US/LibreOffice.adml:1944
-#: en-US/LibreOffice.adml:1948
-#: en-US/LibreOffice.adml:1952
-#: en-US/LibreOffice.adml:1956
-#: en-US/LibreOffice.adml:1960
-#: en-US/LibreOffice.adml:1964
-#: en-US/LibreOffice.adml:1968
-#: en-US/LibreOffice.adml:1972
-#: en-US/LibreOffice.adml:1976
-#: en-US/LibreOffice.adml:1980
-#: en-US/LibreOffice.adml:1985
+#: en-US/LibreOffice.adml:1913
+#: en-US/LibreOffice.adml:1917
+#: en-US/LibreOffice.adml:1921
+#: en-US/LibreOffice.adml:1925
+#: en-US/LibreOffice.adml:1929
+#: en-US/LibreOffice.adml:1933
+#: en-US/LibreOffice.adml:1935
+#: en-US/LibreOffice.adml:1939
+#: en-US/LibreOffice.adml:1943
+#: en-US/LibreOffice.adml:1947
+#: en-US/LibreOffice.adml:1951
+#: en-US/LibreOffice.adml:1955
+#: en-US/LibreOffice.adml:1967
+#: en-US/LibreOffice.adml:1971
+#: en-US/LibreOffice.adml:1975
+#: en-US/LibreOffice.adml:1979
+#: en-US/LibreOffice.adml:1983
 #: en-US/LibreOffice.adml:1987
 #: en-US/LibreOffice.adml:1991
 #: en-US/LibreOffice.adml:1995
-#: en-US/LibreOffice.adml:1997
 #: en-US/LibreOffice.adml:2001
 #: en-US/LibreOffice.adml:2005
 #: en-US/LibreOffice.adml:2009
 #: en-US/LibreOffice.adml:2013
 #: en-US/LibreOffice.adml:2017
-#: en-US/LibreOffice.adml:2021
-#: en-US/LibreOffice.adml:2026
-#: en-US/LibreOffice.adml:2030
-#: en-US/LibreOffice.adml:2034
-#: en-US/LibreOffice.adml:2038
-#: en-US/LibreOffice.adml:2042
-#: en-US/LibreOffice.adml:2046
-#: en-US/LibreOffice.adml:2048
-#: en-US/LibreOffice.adml:2052
-#: en-US/LibreOffice.adml:2056
-#: en-US/LibreOffice.adml:2060
-#: en-US/LibreOffice.adml:2064
-#: en-US/LibreOffice.adml:2068
-#: en-US/LibreOffice.adml:2080
-#: en-US/LibreOffice.adml:2084
-#: en-US/LibreOffice.adml:2088
-#: en-US/LibreOffice.adml:2092
-#: en-US/LibreOffice.adml:2096
-#: en-US/LibreOffice.adml:2100
-#: en-US/LibreOffice.adml:2104
-#: en-US/LibreOffice.adml:2108
-#: en-US/LibreOffice.adml:2114
-#: en-US/LibreOffice.adml:2118
-#: en-US/LibreOffice.adml:2122
-#: en-US/LibreOffice.adml:2126
-#: en-US/LibreOffice.adml:2130
 #, no-wrap
 msgid ""
 "Final"
@@ -407,7 +393,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: textBox/defaultValue
 #: en-US/LibreOffice.adml:25
-#: en-US/LibreOffice.adml:775
+#: en-US/LibreOffice.adml:764
 #, no-wrap
 msgid ""
 "LibreOffice"
@@ -430,7 +416,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:29
-#: en-US/LibreOffice.adml:920
+#: en-US/LibreOffice.adml:807
 #, no-wrap
 msgid ""
 "Use System File Dialog"
@@ -446,7 +432,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:31
-#: en-US/LibreOffice.adml:924
+#: en-US/LibreOffice.adml:811
 #, no-wrap
 msgid ""
 "Show tip of the day"
@@ -469,7 +455,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:34
-#: en-US/LibreOffice.adml:928
+#: en-US/LibreOffice.adml:815
 #, no-wrap
 msgid ""
 "Collect usage data and send it to The Document Foundation"
@@ -517,7 +503,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/text
 #: en-US/LibreOffice.adml:46
-#: en-US/LibreOffice.adml:772
+#: en-US/LibreOffice.adml:761
 #, no-wrap
 msgid ""
 "Specifies the name of the product."
@@ -540,7 +526,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:49
-#: en-US/LibreOffice.adml:780
+#: en-US/LibreOffice.adml:769
 #, no-wrap
 msgid ""
 "Load user-specific settings with the document"
@@ -556,7 +542,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:51
-#: en-US/LibreOffice.adml:784
+#: en-US/LibreOffice.adml:773
 #, no-wrap
 msgid ""
 "Use user data for document properties"
@@ -572,7 +558,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/text
 #: en-US/LibreOffice.adml:53
-#: en-US/LibreOffice.adml:790
+#: en-US/LibreOffice.adml:779
 #, no-wrap
 msgid ""
 "Save AutoRecovery information in every __ minutes"
@@ -581,7 +567,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:54
-#: en-US/LibreOffice.adml:798
+#: en-US/LibreOffice.adml:787
 #, no-wrap
 msgid ""
 "Disable the autorecovery feature"
@@ -604,7 +590,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:57
-#: en-US/LibreOffice.adml:802
+#: en-US/LibreOffice.adml:791
 #, no-wrap
 msgid ""
 "Always create backup copy"
@@ -613,7 +599,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:58
-#: en-US/LibreOffice.adml:806
+#: en-US/LibreOffice.adml:795
 #, no-wrap
 msgid ""
 "Edit document properties before saving"
@@ -629,7 +615,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:60
-#: en-US/LibreOffice.adml:810
+#: en-US/LibreOffice.adml:799
 #, no-wrap
 msgid ""
 "Load printer settings with the document"
@@ -645,7 +631,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:62
-#: en-US/LibreOffice.adml:814
+#: en-US/LibreOffice.adml:803
 #, no-wrap
 msgid ""
 "Warn the user when saving in a format different from ODF or default"
@@ -715,7 +701,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:76
-#: en-US/LibreOffice.adml:2121
+#: en-US/LibreOffice.adml:2008
 #, no-wrap
 msgid ""
 "Create MSO lock file"
@@ -738,7 +724,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:80
-#: en-US/LibreOffice.adml:1132
+#: en-US/LibreOffice.adml:1019
 #, no-wrap
 msgid ""
 "Enable experimental features"
@@ -754,7 +740,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:82
-#: en-US/LibreOffice.adml:1136
+#: en-US/LibreOffice.adml:1023
 #, no-wrap
 msgid ""
 "Enable macro recording (limited)"
@@ -777,7 +763,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:85
-#: en-US/LibreOffice.adml:932
+#: en-US/LibreOffice.adml:819
 #, no-wrap
 msgid ""
 "Use System Print Dialog"
@@ -975,7 +961,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:117
-#: en-US/LibreOffice.adml:1192
+#: en-US/LibreOffice.adml:1079
 #, no-wrap
 msgid ""
 "Remove personal information on saving"
@@ -993,7 +979,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:121
-#: en-US/LibreOffice.adml:1196
+#: en-US/LibreOffice.adml:1083
 #, no-wrap
 msgid ""
 "Recommend password protection on saving"
@@ -1011,7 +997,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:125
-#: en-US/LibreOffice.adml:1200
+#: en-US/LibreOffice.adml:1087
 #, no-wrap
 msgid ""
 "Ctrl-click required to follow hyperlinks"
@@ -1028,7 +1014,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:128
-#: en-US/LibreOffice.adml:1204
+#: en-US/LibreOffice.adml:1091
 #, no-wrap
 msgid ""
 "Security warnings when saving or sending"
@@ -1046,7 +1032,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:132
-#: en-US/LibreOffice.adml:1208
+#: en-US/LibreOffice.adml:1095
 #, no-wrap
 msgid ""
 "Security warnings when signing"
@@ -1064,7 +1050,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:136
-#: en-US/LibreOffice.adml:1212
+#: en-US/LibreOffice.adml:1099
 #, no-wrap
 msgid ""
 "Security warnings when printing"
@@ -1082,7 +1068,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:140
-#: en-US/LibreOffice.adml:1216
+#: en-US/LibreOffice.adml:1103
 #, no-wrap
 msgid ""
 "Security warnings when creating PDF"
@@ -1149,7 +1135,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:157
-#: en-US/LibreOffice.adml:1224
+#: en-US/LibreOffice.adml:1111
 #, no-wrap
 msgid ""
 "Disable macro execution"
@@ -1181,7 +1167,7 @@ msgstr ""
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
 #: en-US/LibreOffice.adml:163
-#: en-US/LibreOffice.adml:1232
+#: en-US/LibreOffice.adml:1119
 #, no-wrap
 msgid ""
 "Enable Expert Configuration"
@@ -3032,7 +3018,7 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #: en-US/LibreOffice.adml:431
-#: en-US/LibreOffice.adml:670
+#: en-US/LibreOffice.adml:659
 #, no-wrap
 msgid ""
 "ODF Spreadsheet"
@@ -3299,7 +3285,7 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #: en-US/LibreOffice.adml:469
-#: en-US/LibreOffice.adml:705
+#: en-US/LibreOffice.adml:694
 #, no-wrap
 msgid ""
 "ODF Presentation"
@@ -3496,7 +3482,7 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #: en-US/LibreOffice.adml:497
-#: en-US/LibreOffice.adml:632
+#: en-US/LibreOffice.adml:621
 #, no-wrap
 msgid ""
 "ODF Text Document"
@@ -3731,118 +3717,48 @@ msgstr ""
 #: en-US/LibreOffice.adml:540
 #, no-wrap
 msgid ""
-"Paths"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:541
-#, no-wrap
-msgid ""
-"Path of AutoCorrect files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:542
-#, no-wrap
-msgid ""
-"Path of AutoText files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:543
-#, no-wrap
-msgid ""
-"Path of Dictionary files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:544
-#, no-wrap
-msgid ""
-"Path of Gallery files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:545
-#, no-wrap
-msgid ""
-"Path of Template files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:546
-#, no-wrap
-msgid ""
-"Path of My Documents folder"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:547
-#, no-wrap
-msgid ""
-"Path of Image files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:548
-#, no-wrap
-msgid ""
-"Path of Backup files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:549
-#, no-wrap
-msgid ""
-"Path of Temporary files"
-msgstr ""
-
-#. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:551
-#, no-wrap
-msgid ""
 "Passwords"
 msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:552
-#: en-US/LibreOffice.adml:2099
+#: en-US/LibreOffice.adml:541
+#: en-US/LibreOffice.adml:1986
 #, no-wrap
 msgid ""
 "Use system credentials"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:553
+#: en-US/LibreOffice.adml:542
 #, no-wrap
 msgid ""
 "Specifies if authentication using system credentials should be tried automatically for all resources that support it."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:555
+#: en-US/LibreOffice.adml:544
 #, no-wrap
 msgid ""
 "View"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:556
+#: en-US/LibreOffice.adml:545
 #, no-wrap
 msgid ""
 "Icon style"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:557
+#: en-US/LibreOffice.adml:546
 #, no-wrap
 msgid ""
 "Specifies which style of the symbols is used for the toolbars, menus, etc.: \"Automatic\" means chosen according to the desktop; \"Default\" means the LibreOffice default theme; other possible values are the names of the various icon themes (\"Breeze\", \"Oxygen\", \"Sifr\", etc.)."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:558
+#: en-US/LibreOffice.adml:547
 #, no-wrap
 msgid ""
 "Automatic"
@@ -3850,131 +3766,131 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:559
-#: en-US/LibreOffice.adml:734
-#: en-US/LibreOffice.adml:1021
-#: en-US/LibreOffice.adml:1058
-#: en-US/LibreOffice.adml:1095
+#: en-US/LibreOffice.adml:548
+#: en-US/LibreOffice.adml:723
+#: en-US/LibreOffice.adml:908
+#: en-US/LibreOffice.adml:945
+#: en-US/LibreOffice.adml:982
 #, no-wrap
 msgid ""
 "Default"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:560
+#: en-US/LibreOffice.adml:549
 #, no-wrap
 msgid ""
 "Tango"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:561
+#: en-US/LibreOffice.adml:550
 #, no-wrap
 msgid ""
 "Breeze"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:562
+#: en-US/LibreOffice.adml:551
 #, no-wrap
 msgid ""
 "Oxygen"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:563
+#: en-US/LibreOffice.adml:552
 #, no-wrap
 msgid ""
 "Sifr"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:564
+#: en-US/LibreOffice.adml:553
 #, no-wrap
 msgid ""
 "Galaxy"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:565
+#: en-US/LibreOffice.adml:554
 #, no-wrap
 msgid ""
 "Hicontrast"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:566
+#: en-US/LibreOffice.adml:555
 #, no-wrap
 msgid ""
 "Small"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:567
+#: en-US/LibreOffice.adml:556
 #, no-wrap
 msgid ""
 "Large"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:568
+#: en-US/LibreOffice.adml:557
 #, no-wrap
 msgid ""
 "Use OpenGL"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:569
+#: en-US/LibreOffice.adml:558
 #, no-wrap
 msgid ""
 "Specifies if OpenGL rendering should be used in VCL backends supporting it."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:570
+#: en-US/LibreOffice.adml:559
 #, no-wrap
 msgid ""
 "Force OpenGL"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:571
+#: en-US/LibreOffice.adml:560
 #, no-wrap
 msgid ""
 "Specifies if OpenGL rendering should be used in VCL backends supporting it. This one forces the use of OpenGL even if the blacklist would block the OpenGL driver."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:572
+#: en-US/LibreOffice.adml:561
 #, no-wrap
 msgid ""
 "Use Skia Graphics"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:573
+#: en-US/LibreOffice.adml:562
 #, no-wrap
 msgid ""
 "Specifies if the Skia graphics library should be used in VCL backends supporting it."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:574
+#: en-US/LibreOffice.adml:563
 #, no-wrap
 msgid ""
 "Force Skia Graphics"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:575
+#: en-US/LibreOffice.adml:564
 #, no-wrap
 msgid ""
 "Specifies if the Skia graphics library should be used in VCL backends supporting it. This one forces the use of Skia, even if the blacklist would block the hardware-accelerated driver."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:577
-#: en-US/LibreOffice.adml:714
+#: en-US/LibreOffice.adml:566
+#: en-US/LibreOffice.adml:703
 #, no-wrap
 msgid ""
 "Print"
@@ -3982,30 +3898,30 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:578
-#: en-US/LibreOffice.adml:2020
+#: en-US/LibreOffice.adml:567
+#: en-US/LibreOffice.adml:1907
 #, no-wrap
 msgid ""
 "Convert colors to grayscale"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:579
+#: en-US/LibreOffice.adml:568
 #, no-wrap
 msgid ""
 "Indicates whether to create only grayscale output of all objects."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:580
-#: en-US/LibreOffice.adml:581
+#: en-US/LibreOffice.adml:569
+#: en-US/LibreOffice.adml:570
 #, no-wrap
 msgid ""
 "Printer warnings"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:583
+#: en-US/LibreOffice.adml:572
 #, no-wrap
 msgid ""
 "Accessibility"
@@ -4013,9 +3929,9 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:584
-#: en-US/LibreOffice.adml:585
-#: en-US/LibreOffice.adml:2029
+#: en-US/LibreOffice.adml:573
+#: en-US/LibreOffice.adml:574
+#: en-US/LibreOffice.adml:1916
 #, no-wrap
 msgid ""
 "Support assistive technology tools"
@@ -4023,15 +3939,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:586
-#: en-US/LibreOffice.adml:2033
+#: en-US/LibreOffice.adml:575
+#: en-US/LibreOffice.adml:1920
 #, no-wrap
 msgid ""
 "Use text selections cursor in read-only text documents"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:587
+#: en-US/LibreOffice.adml:576
 #, no-wrap
 msgid ""
 "Indicates whether the cursor is displayed in read-only texts."
@@ -4039,15 +3955,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:588
-#: en-US/LibreOffice.adml:2037
+#: en-US/LibreOffice.adml:577
+#: en-US/LibreOffice.adml:1924
 #, no-wrap
 msgid ""
 "Allow animated graphics"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:589
+#: en-US/LibreOffice.adml:578
 #, no-wrap
 msgid ""
 "Indicates whether to allow the graphical animation in all applications, i.e. animated GIFs and objects in Impress during presentation, animated graphical previews (Gallery, Insert - Image..., Animation Tool in Impress)."
@@ -4055,15 +3971,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:590
-#: en-US/LibreOffice.adml:2041
+#: en-US/LibreOffice.adml:579
+#: en-US/LibreOffice.adml:1928
 #, no-wrap
 msgid ""
 "Allow animated text"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:591
+#: en-US/LibreOffice.adml:580
 #, no-wrap
 msgid ""
 "Indicates whether to allow all textual animation like blinking and scrolling in all applications."
@@ -4071,15 +3987,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:592
-#: en-US/LibreOffice.adml:2045
+#: en-US/LibreOffice.adml:581
+#: en-US/LibreOffice.adml:1932
 #, no-wrap
 msgid ""
 "Help tips disappear after..."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:593
+#: en-US/LibreOffice.adml:582
 #, no-wrap
 msgid ""
 "Enables or disables the automatic time out of help tips. You can specify a duration (n) of 1 to 99 seconds. If this option is          disabled, press the Esc key to dismiss the help tip."
@@ -4087,15 +4003,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:594
-#: en-US/LibreOffice.adml:2051
+#: en-US/LibreOffice.adml:583
+#: en-US/LibreOffice.adml:1938
 #, no-wrap
 msgid ""
 "Automatically detect high contrast mode of operating system"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:595
+#: en-US/LibreOffice.adml:584
 #, no-wrap
 msgid ""
 "Enables the automatic detection of a high contrast mode set for your desktop. Some OS' do not provide this option explicitly, but allow the user to choose a color scheme that is HC-compliant implicitly, which is recognized if the option is set."
@@ -4103,15 +4019,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:596
-#: en-US/LibreOffice.adml:2055
+#: en-US/LibreOffice.adml:585
+#: en-US/LibreOffice.adml:1942
 #, no-wrap
 msgid ""
 "Use automatic font color for screen display"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:597
+#: en-US/LibreOffice.adml:586
 #, no-wrap
 msgid ""
 "Overrides all text color attributes set in a document for display only."
@@ -4119,134 +4035,134 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:598
-#: en-US/LibreOffice.adml:2059
+#: en-US/LibreOffice.adml:587
+#: en-US/LibreOffice.adml:1946
 #, no-wrap
 msgid ""
 "Use system colors for page previews"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:599
+#: en-US/LibreOffice.adml:588
 #, no-wrap
 msgid ""
 "Enables the use of high contrast colors, instead of displaying the normal/original WYSIWYG colors."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:601
+#: en-US/LibreOffice.adml:590
 #, no-wrap
 msgid ""
 "Font Substitutions"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:602
+#: en-US/LibreOffice.adml:591
 #, no-wrap
 msgid ""
 "Use Font Substitutions"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:603
+#: en-US/LibreOffice.adml:592
 #, no-wrap
 msgid ""
 "Enables LibreOffice to use font substitutions table"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:604
+#: en-US/LibreOffice.adml:593
 #, no-wrap
 msgid ""
 "Font Pair 0"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:605
+#: en-US/LibreOffice.adml:594
 #, no-wrap
 msgid ""
 "Font Pair 1"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:606
+#: en-US/LibreOffice.adml:595
 #, no-wrap
 msgid ""
 "Font Pair 2"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:607
+#: en-US/LibreOffice.adml:596
 #, no-wrap
 msgid ""
 "Font Pair 3"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:608
+#: en-US/LibreOffice.adml:597
 #, no-wrap
 msgid ""
 "Font Pair 4"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:609
+#: en-US/LibreOffice.adml:598
 #, no-wrap
 msgid ""
 "Font Pair 5"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:610
+#: en-US/LibreOffice.adml:599
 #, no-wrap
 msgid ""
 "Font Pair 6"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:611
+#: en-US/LibreOffice.adml:600
 #, no-wrap
 msgid ""
 "Font Pair 7"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:612
+#: en-US/LibreOffice.adml:601
 #, no-wrap
 msgid ""
 "Font Pair 8"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:613
+#: en-US/LibreOffice.adml:602
 #, no-wrap
 msgid ""
 "Font Pair 9"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:614
+#: en-US/LibreOffice.adml:603
 #, no-wrap
 msgid ""
 "Defines font substitution pair"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:616
+#: en-US/LibreOffice.adml:605
 #, no-wrap
 msgid ""
 "PDF export"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:617
+#: en-US/LibreOffice.adml:606
 #, no-wrap
 msgid ""
 "Select the preferred PDF export version and type"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:618
+#: en-US/LibreOffice.adml:607
 #, no-wrap
 msgid ""
 "Select the default PDF version and type\n"
@@ -4256,15 +4172,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:621
-#: en-US/LibreOffice.adml:2087
+#: en-US/LibreOffice.adml:610
+#: en-US/LibreOffice.adml:1974
 #, no-wrap
 msgid ""
 "Export form fields as widgets"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:622
+#: en-US/LibreOffice.adml:611
 #, no-wrap
 msgid ""
 "Specifies whether form fields are exported as widgets or only their fixed print representation is exported."
@@ -4272,92 +4188,92 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:623
-#: en-US/LibreOffice.adml:2091
+#: en-US/LibreOffice.adml:612
+#: en-US/LibreOffice.adml:1978
 #, no-wrap
 msgid ""
 "Export placeholder fields to PDF"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:624
+#: en-US/LibreOffice.adml:613
 #, no-wrap
 msgid ""
 "Specifies if placeholder fields are exported to PDF."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:626
+#: en-US/LibreOffice.adml:615
 #, no-wrap
 msgid ""
 "Help"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:627
+#: en-US/LibreOffice.adml:616
 #, no-wrap
 msgid ""
 "Extended tips"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:628
+#: en-US/LibreOffice.adml:617
 #, no-wrap
 msgid ""
 "Activates the extended help in tooltips"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:630
+#: en-US/LibreOffice.adml:619
 #, no-wrap
 msgid ""
 "Writer"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:631
+#: en-US/LibreOffice.adml:620
 #, no-wrap
 msgid ""
 "Always save in this document format. Please note that only Open Document Format (ODF) guarantees full data integrity."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:633
+#: en-US/LibreOffice.adml:622
 #, no-wrap
 msgid ""
 "Microsoft Word 2007/2010 XML"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:634
+#: en-US/LibreOffice.adml:623
 #, no-wrap
 msgid ""
 "Microsoft Word 97/2000/XP/2003"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:635
+#: en-US/LibreOffice.adml:624
 #, no-wrap
 msgid ""
 "Rich Text (RTF)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:636
+#: en-US/LibreOffice.adml:625
 #, no-wrap
 msgid ""
 "Default Fonts"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:637
+#: en-US/LibreOffice.adml:626
 #, no-wrap
 msgid ""
 "Default Fonts (Western)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:638
+#: en-US/LibreOffice.adml:627
 #, no-wrap
 msgid ""
 "Specifies the font to be used for Western (Latin, Cyrillic, Greek etc.) text.\n"
@@ -4366,14 +4282,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:641
+#: en-US/LibreOffice.adml:630
 #, no-wrap
 msgid ""
 "Default Fonts (CJK)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:642
+#: en-US/LibreOffice.adml:631
 #, no-wrap
 msgid ""
 "Specifies the font to be used for Chinese, Japanese and Korean text.\n"
@@ -4382,14 +4298,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:645
+#: en-US/LibreOffice.adml:634
 #, no-wrap
 msgid ""
 "Default Fonts (CTL)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:646
+#: en-US/LibreOffice.adml:635
 #, no-wrap
 msgid ""
 "Specifies the font to be used for complex text layout (Arabic, Indian etc.) text.\n"
@@ -4398,14 +4314,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:649
+#: en-US/LibreOffice.adml:638
 #, no-wrap
 msgid ""
 "Print Empty Pages"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:650
+#: en-US/LibreOffice.adml:639
 #, no-wrap
 msgid ""
 "Specifies whether empty pages are printed."
@@ -4413,15 +4329,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:651
-#: en-US/LibreOffice.adml:1975
+#: en-US/LibreOffice.adml:640
+#: en-US/LibreOffice.adml:1862
 #, no-wrap
 msgid ""
 "Create single print jobs"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:652
+#: en-US/LibreOffice.adml:641
 #, no-wrap
 msgid ""
 "Controls the print output to avoid problems with duplex printing and odd page numbers."
@@ -4429,29 +4345,29 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:653
-#: en-US/LibreOffice.adml:1990
+#: en-US/LibreOffice.adml:642
+#: en-US/LibreOffice.adml:1877
 #, no-wrap
 msgid ""
 "Print only selected sheets"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:654
+#: en-US/LibreOffice.adml:643
 #, no-wrap
 msgid ""
 "Specifies whether all sheets are printed instead of only the selected sheets."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:655
+#: en-US/LibreOffice.adml:644
 #, no-wrap
 msgid ""
 "AutoText"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:656
+#: en-US/LibreOffice.adml:645
 #, no-wrap
 msgid ""
 "Suggestion"
@@ -4459,120 +4375,120 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:657
-#: en-US/LibreOffice.adml:2103
+#: en-US/LibreOffice.adml:646
+#: en-US/LibreOffice.adml:1990
 #, no-wrap
 msgid ""
 "Display remainder of name as suggestion while typing"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:658
+#: en-US/LibreOffice.adml:647
 #, no-wrap
 msgid ""
 "Bulleted and numbered lists"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:659
+#: en-US/LibreOffice.adml:648
 #, no-wrap
 msgid ""
 "Specifies whether a numbered or bulleted text is created automatically while typing."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:660
+#: en-US/LibreOffice.adml:649
 #, no-wrap
 msgid ""
 "Word completion minimum word length"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:661
+#: en-US/LibreOffice.adml:650
 #, no-wrap
 msgid ""
 "Sets the value for the minimum word length for word completion."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:662
+#: en-US/LibreOffice.adml:651
 #, no-wrap
 msgid ""
 "Forms"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:663
+#: en-US/LibreOffice.adml:652
 #, no-wrap
 msgid ""
 "MS Office compatible form controls"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:664
+#: en-US/LibreOffice.adml:653
 #, no-wrap
 msgid ""
 "Specifies whether Form menu should be customized for a Microsoft Office compatible workflow. The Microsoft Office compatible Form menu contains only Microsoft Office compatible form controls."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:665
+#: en-US/LibreOffice.adml:654
 #, no-wrap
 msgid ""
 "Table"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:666
+#: en-US/LibreOffice.adml:655
 #, no-wrap
 msgid ""
 "Number recognition"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:667
+#: en-US/LibreOffice.adml:656
 #, no-wrap
 msgid ""
 "Specifies whether numbers in a table are recognized or if they are saved in a text format."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:669
+#: en-US/LibreOffice.adml:658
 #, no-wrap
 msgid ""
 "Calc"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:671
+#: en-US/LibreOffice.adml:660
 #, no-wrap
 msgid ""
 "Microsoft Excel 2007/2010 XML"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:672
+#: en-US/LibreOffice.adml:661
 #, no-wrap
 msgid ""
 "Microsoft Excel 97-2003 XLS"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:674
+#: en-US/LibreOffice.adml:663
 #, no-wrap
 msgid ""
 "Calculate"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:676
+#: en-US/LibreOffice.adml:665
 #, no-wrap
 msgid ""
 "Case Sensitive"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:677
+#: en-US/LibreOffice.adml:666
 #, no-wrap
 msgid ""
 "Distinguish between upper and lower case in texts when comparing cell contents"
@@ -4580,15 +4496,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:678
-#: en-US/LibreOffice.adml:1943
+#: en-US/LibreOffice.adml:667
+#: en-US/LibreOffice.adml:1830
 #, no-wrap
 msgid ""
 "Precision as shown"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:679
+#: en-US/LibreOffice.adml:668
 #, no-wrap
 msgid ""
 "Specifies whether the calculation uses the rounded values displayed in the sheet."
@@ -4596,15 +4512,15 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:680
-#: en-US/LibreOffice.adml:1947
+#: en-US/LibreOffice.adml:669
+#: en-US/LibreOffice.adml:1834
 #, no-wrap
 msgid ""
 "Search criteria = and &lt;&gt; must apply to whole cells"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:681
+#: en-US/LibreOffice.adml:670
 #, no-wrap
 msgid ""
 "Specifies whether search criteria in formulas must match the whole of the cell contents."
@@ -4612,106 +4528,106 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:682
-#: en-US/LibreOffice.adml:1951
+#: en-US/LibreOffice.adml:671
+#: en-US/LibreOffice.adml:1838
 #, no-wrap
 msgid ""
 "Automatically find column and row labels"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:683
+#: en-US/LibreOffice.adml:672
 #, no-wrap
 msgid ""
 "Specifies whether column and row labels are used to refer to the column area beneath the text cell or to the row area at the right of the text cell while running a search."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:684
+#: en-US/LibreOffice.adml:673
 #, no-wrap
 msgid ""
 "Regular expressions in formulas"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:685
+#: en-US/LibreOffice.adml:674
 #, no-wrap
 msgid ""
 "Specifies whether the calculation uses regular expressions in formulas, e.g. for functions which look up sheet contents."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:686
+#: en-US/LibreOffice.adml:675
 #, no-wrap
 msgid ""
 "Wildcards in formulas"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:687
+#: en-US/LibreOffice.adml:676
 #, no-wrap
 msgid ""
 "Specifies whether the calculation uses wildcards in formulas, e.g. for functions which look up sheet contents."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:689
+#: en-US/LibreOffice.adml:678
 #, no-wrap
 msgid ""
 "Formulas"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:690
+#: en-US/LibreOffice.adml:679
 #, no-wrap
 msgid ""
 "English Function Names"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:691
+#: en-US/LibreOffice.adml:680
 #, no-wrap
 msgid ""
 "Use English function names even when user interface is localized."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:692
+#: en-US/LibreOffice.adml:681
 #, no-wrap
 msgid ""
 "Recalculation of spreadsheets on load"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:693
+#: en-US/LibreOffice.adml:682
 #, no-wrap
 msgid ""
 "Specifies whether to force a hard recalculation of formula cells after load of non-LibreOffice-generated ODF documents and/or OOXML-based Excel documents (2007 and newer)."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:694
+#: en-US/LibreOffice.adml:683
 #, no-wrap
 msgid ""
 "Always recalculate"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:695
+#: en-US/LibreOffice.adml:684
 #, no-wrap
 msgid ""
 "Never recalculate"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:696
+#: en-US/LibreOffice.adml:685
 #, no-wrap
 msgid ""
 "Prompt user"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:698
+#: en-US/LibreOffice.adml:687
 #, no-wrap
 msgid ""
 "Merge Cells"
@@ -4719,22 +4635,22 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:699
-#: en-US/LibreOffice.adml:1963
+#: en-US/LibreOffice.adml:688
+#: en-US/LibreOffice.adml:1850
 #, no-wrap
 msgid ""
 "Show Merge Cells dialog"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:700
+#: en-US/LibreOffice.adml:689
 #, no-wrap
 msgid ""
 "Specifies whether the Merge Cells dialog box is shown, when some cells are not empty."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:701
+#: en-US/LibreOffice.adml:690
 #, no-wrap
 msgid ""
 "Specifies whether to empty the contents of the hidden cells (like Excel does)."
@@ -4742,71 +4658,71 @@ msgstr ""
 
 #. (itstool) path: stringTable/string
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:702
-#: en-US/LibreOffice.adml:1967
+#: en-US/LibreOffice.adml:691
+#: en-US/LibreOffice.adml:1854
 #, no-wrap
 msgid ""
 "Empty merged cells"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:704
+#: en-US/LibreOffice.adml:693
 #, no-wrap
 msgid ""
 "Impress"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:706
+#: en-US/LibreOffice.adml:695
 #, no-wrap
 msgid ""
 "Microsoft PowerPoint 2007/2010 XML"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:707
+#: en-US/LibreOffice.adml:696
 #, no-wrap
 msgid ""
 "Microsoft PowerPoint 97/2000/XP/2003"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:709
+#: en-US/LibreOffice.adml:698
 #, no-wrap
 msgid ""
 "Specifies the file URL of the standard template file for text documents."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:710
+#: en-US/LibreOffice.adml:699
 #, no-wrap
 msgid ""
 "Specifies the file URL of the standard template file for spreadsheet documents."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:711
+#: en-US/LibreOffice.adml:700
 #, no-wrap
 msgid ""
 "Specifies the file URL of the standard template file for presentation documents."
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:713
+#: en-US/LibreOffice.adml:702
 #, no-wrap
 msgid ""
 "Save As Format"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:715
+#: en-US/LibreOffice.adml:704
 #, no-wrap
 msgid ""
 "Default Template"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:716
+#: en-US/LibreOffice.adml:705
 #, no-wrap
 msgid ""
 "Directory and file paths must be entered using file URL syntax, as described below.\n"
@@ -4830,1519 +4746,1369 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:735
+#: en-US/LibreOffice.adml:724
 #, no-wrap
 msgid ""
 "PDF/A-1"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:736
+#: en-US/LibreOffice.adml:725
 #, no-wrap
 msgid ""
 "PDF/A-2 (LibreOffice since 6.3)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:737
+#: en-US/LibreOffice.adml:726
 #, no-wrap
 msgid ""
 "PDF/A-3 (LibreOffice since 6.4)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:738
+#: en-US/LibreOffice.adml:727
 #, no-wrap
 msgid ""
 "PDF 1.4 (LibreOffice until 6.1)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:739
+#: en-US/LibreOffice.adml:728
 #, no-wrap
 msgid ""
 "PDF 1.5 (LibreOffice since 6.1)"
 msgstr ""
 
 #. (itstool) path: stringTable/string
-#: en-US/LibreOffice.adml:740
+#: en-US/LibreOffice.adml:729
 #, no-wrap
 msgid ""
 "PDF 1.6 (LibreOffice since 7.0)"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:744
+#: en-US/LibreOffice.adml:733
 msgid "LDAP Server configuration"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:746
+#: en-US/LibreOffice.adml:735
 msgid "Server:"
 msgstr ""
 
 #. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:747
+#: en-US/LibreOffice.adml:736
 msgid "example.com"
 msgstr ""
 
 #. (itstool) path: presentation/decimalTextBox
-#: en-US/LibreOffice.adml:749
+#: en-US/LibreOffice.adml:738
 msgid "Port:"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:750
+#: en-US/LibreOffice.adml:739
 msgid "LDAP Search configuration"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:752
+#: en-US/LibreOffice.adml:741
 msgid "Username to bind:"
 msgstr ""
 
 #. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:753
+#: en-US/LibreOffice.adml:742
 msgid "example\\bindLdap"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:756
+#: en-US/LibreOffice.adml:745
 msgid "Password to bind:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:759
+#: en-US/LibreOffice.adml:748
 msgid "Base DN for search:"
 msgstr ""
 
 #. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:760
+#: en-US/LibreOffice.adml:749
 msgid "cn=Users,dc=example,dc=com"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:763
+#: en-US/LibreOffice.adml:752
 msgid "User object class:"
 msgstr ""
 
 #. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:764
+#: en-US/LibreOffice.adml:753
 msgid "user"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:767
+#: en-US/LibreOffice.adml:756
 msgid "User unique attribute:"
 msgstr ""
 
 #. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:768
+#: en-US/LibreOffice.adml:757
 msgid "sAMAccountName"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:774
+#: en-US/LibreOffice.adml:763
 msgid "Value:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:788
+#: en-US/LibreOffice.adml:777
 msgid "Save AutoRecovery information"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:791
+#: en-US/LibreOffice.adml:780
 msgid "Type: integer [1..60]"
 msgstr ""
 
 #. (itstool) path: presentation/decimalTextBox
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:792
-#: en-US/LibreOffice.adml:989
-#: en-US/LibreOffice.adml:994
-#: en-US/LibreOffice.adml:999
+#: en-US/LibreOffice.adml:781
+#: en-US/LibreOffice.adml:876
+#: en-US/LibreOffice.adml:881
+#: en-US/LibreOffice.adml:886
 msgid "Value"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:794
+#: en-US/LibreOffice.adml:783
 msgid "Automatically save the document too"
 msgstr ""
 
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:818
-msgid "WritePath of AutoCorrect files. It is the location where new user files are written."
-msgstr ""
-
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:820
-#: en-US/LibreOffice.adml:834
-#: en-US/LibreOffice.adml:848
-#: en-US/LibreOffice.adml:862
-#: en-US/LibreOffice.adml:876
-#: en-US/LibreOffice.adml:890
-#: en-US/LibreOffice.adml:898
-#: en-US/LibreOffice.adml:906
-#: en-US/LibreOffice.adml:914
-msgid "Path:"
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:821
-msgid "$(user)/autocorr"
-msgstr ""
-
-#. (itstool) path: presentation/text
 #: en-US/LibreOffice.adml:824
-msgid "UserPaths of AutoCorrect files"
-msgstr ""
-
-#. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:826
-#: en-US/LibreOffice.adml:840
-#: en-US/LibreOffice.adml:854
-#: en-US/LibreOffice.adml:868
-#: en-US/LibreOffice.adml:882
-#: en-US/LibreOffice.adml:1238
-msgid "Path list:"
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:827
-msgid "$(inst)/share/autocorr $(user)/autocorr"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:832
-msgid "WritePath of AutoText files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:835
-msgid "$(user)/autotext"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:838
-msgid "UserPaths of AutoText files"
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:841
-msgid "$(inst)/share/autotext/$(vlang) $(user)/autotext"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:846
-msgid "WritePath of Dictionary files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:849
-msgid "$(user)/wordbook"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:852
-msgid "UserPaths of Dictionary files"
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:855
-msgid "$(inst)/share/wordbook $(inst)/share/wordbook/$(vlang) $(user)/wordbook"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:860
-msgid "WritePath of Gallery files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:863
-#: en-US/LibreOffice.adml:899
-msgid "$(user)/gallery"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:866
-msgid "UserPaths of Gallery files"
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:869
-msgid "$(inst)/share/gallery $(user)/gallery"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:874
-msgid "WritePath of Templates files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:877
-#: en-US/LibreOffice.adml:883
-msgid "$(user)/template"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:880
-msgid "UserPaths of Templates files"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:888
-msgid "Location of My Documents folder."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:891
-msgid "$(work)"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:896
-msgid "WritePath of Image files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:904
-msgid "WritePath of Backup files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:907
-msgid "$(user)/backup"
-msgstr ""
-
-#. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:912
-msgid "WritePath of Temporary files. It is the location where new user files are written."
-msgstr ""
-
-#. (itstool) path: textBox/defaultValue
-#: en-US/LibreOffice.adml:915
-msgid "$(temp)"
-msgstr ""
-
-#. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:937
 msgid "Given Name:"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:939
-#: en-US/LibreOffice.adml:943
-#: en-US/LibreOffice.adml:947
-#: en-US/LibreOffice.adml:953
-#: en-US/LibreOffice.adml:959
-#: en-US/LibreOffice.adml:963
-#: en-US/LibreOffice.adml:967
-#: en-US/LibreOffice.adml:971
-#: en-US/LibreOffice.adml:975
-#: en-US/LibreOffice.adml:981
-#: en-US/LibreOffice.adml:985
+#: en-US/LibreOffice.adml:826
+#: en-US/LibreOffice.adml:830
+#: en-US/LibreOffice.adml:834
+#: en-US/LibreOffice.adml:840
+#: en-US/LibreOffice.adml:846
+#: en-US/LibreOffice.adml:850
+#: en-US/LibreOffice.adml:854
+#: en-US/LibreOffice.adml:858
+#: en-US/LibreOffice.adml:862
+#: en-US/LibreOffice.adml:868
+#: en-US/LibreOffice.adml:872
 msgid "Flags:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:941
+#: en-US/LibreOffice.adml:828
 msgid "Last Name:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:945
+#: en-US/LibreOffice.adml:832
 msgid "Initials:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:951
+#: en-US/LibreOffice.adml:838
 msgid "Company Name:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:957
+#: en-US/LibreOffice.adml:844
 msgid "Street:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:961
+#: en-US/LibreOffice.adml:848
 msgid "City:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:965
+#: en-US/LibreOffice.adml:852
 msgid "State:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:969
+#: en-US/LibreOffice.adml:856
 msgid "ZIP code:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:973
+#: en-US/LibreOffice.adml:860
 msgid "Country:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:979
+#: en-US/LibreOffice.adml:866
 msgid "Telephone:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:983
+#: en-US/LibreOffice.adml:870
 msgid "Fax:"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:988
-#: en-US/LibreOffice.adml:993
-#: en-US/LibreOffice.adml:998
+#: en-US/LibreOffice.adml:875
+#: en-US/LibreOffice.adml:880
+#: en-US/LibreOffice.adml:885
 msgid "Always save in this document format."
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:1004
-#: en-US/LibreOffice.adml:1010
-#: en-US/LibreOffice.adml:1016
+#: en-US/LibreOffice.adml:891
+#: en-US/LibreOffice.adml:897
+#: en-US/LibreOffice.adml:903
 msgid "File URL:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:1023
-#: en-US/LibreOffice.adml:1030
-#: en-US/LibreOffice.adml:1037
-#: en-US/LibreOffice.adml:1044
-#: en-US/LibreOffice.adml:1051
-#: en-US/LibreOffice.adml:1060
-#: en-US/LibreOffice.adml:1067
-#: en-US/LibreOffice.adml:1074
-#: en-US/LibreOffice.adml:1081
-#: en-US/LibreOffice.adml:1088
-#: en-US/LibreOffice.adml:1097
-#: en-US/LibreOffice.adml:1104
-#: en-US/LibreOffice.adml:1111
-#: en-US/LibreOffice.adml:1118
-#: en-US/LibreOffice.adml:1125
+#: en-US/LibreOffice.adml:910
+#: en-US/LibreOffice.adml:917
+#: en-US/LibreOffice.adml:924
+#: en-US/LibreOffice.adml:931
+#: en-US/LibreOffice.adml:938
+#: en-US/LibreOffice.adml:947
+#: en-US/LibreOffice.adml:954
+#: en-US/LibreOffice.adml:961
+#: en-US/LibreOffice.adml:968
+#: en-US/LibreOffice.adml:975
+#: en-US/LibreOffice.adml:984
+#: en-US/LibreOffice.adml:991
+#: en-US/LibreOffice.adml:998
+#: en-US/LibreOffice.adml:1005
+#: en-US/LibreOffice.adml:1012
 msgid "Font:"
 msgstr ""
 
 #. (itstool) path: presentation/decimalTextBox
-#: en-US/LibreOffice.adml:1026
-#: en-US/LibreOffice.adml:1033
-#: en-US/LibreOffice.adml:1040
-#: en-US/LibreOffice.adml:1047
-#: en-US/LibreOffice.adml:1054
-#: en-US/LibreOffice.adml:1063
-#: en-US/LibreOffice.adml:1070
-#: en-US/LibreOffice.adml:1077
-#: en-US/LibreOffice.adml:1084
-#: en-US/LibreOffice.adml:1091
-#: en-US/LibreOffice.adml:1100
-#: en-US/LibreOffice.adml:1107
-#: en-US/LibreOffice.adml:1114
-#: en-US/LibreOffice.adml:1121
-#: en-US/LibreOffice.adml:1128
-#: en-US/LibreOffice.adml:1140
-#: en-US/LibreOffice.adml:1144
+#: en-US/LibreOffice.adml:913
+#: en-US/LibreOffice.adml:920
+#: en-US/LibreOffice.adml:927
+#: en-US/LibreOffice.adml:934
+#: en-US/LibreOffice.adml:941
+#: en-US/LibreOffice.adml:950
+#: en-US/LibreOffice.adml:957
+#: en-US/LibreOffice.adml:964
+#: en-US/LibreOffice.adml:971
+#: en-US/LibreOffice.adml:978
+#: en-US/LibreOffice.adml:987
+#: en-US/LibreOffice.adml:994
+#: en-US/LibreOffice.adml:1001
+#: en-US/LibreOffice.adml:1008
+#: en-US/LibreOffice.adml:1015
+#: en-US/LibreOffice.adml:1027
+#: en-US/LibreOffice.adml:1031
 msgid "Size:"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1028
-#: en-US/LibreOffice.adml:1065
-#: en-US/LibreOffice.adml:1102
+#: en-US/LibreOffice.adml:915
+#: en-US/LibreOffice.adml:952
+#: en-US/LibreOffice.adml:989
 msgid "Heading"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1035
-#: en-US/LibreOffice.adml:1072
-#: en-US/LibreOffice.adml:1109
+#: en-US/LibreOffice.adml:922
+#: en-US/LibreOffice.adml:959
+#: en-US/LibreOffice.adml:996
 msgid "List"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1042
-#: en-US/LibreOffice.adml:1079
-#: en-US/LibreOffice.adml:1116
+#: en-US/LibreOffice.adml:929
+#: en-US/LibreOffice.adml:966
+#: en-US/LibreOffice.adml:1003
 msgid "Caption"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1049
-#: en-US/LibreOffice.adml:1086
-#: en-US/LibreOffice.adml:1123
+#: en-US/LibreOffice.adml:936
+#: en-US/LibreOffice.adml:973
+#: en-US/LibreOffice.adml:1010
 msgid "Index"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:1149
-#: en-US/LibreOffice.adml:1155
-#: en-US/LibreOffice.adml:1161
-#: en-US/LibreOffice.adml:1167
+#: en-US/LibreOffice.adml:1036
+#: en-US/LibreOffice.adml:1042
+#: en-US/LibreOffice.adml:1048
+#: en-US/LibreOffice.adml:1054
 msgid "Language code:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:1173
+#: en-US/LibreOffice.adml:1060
 msgid "Locale:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:1179
+#: en-US/LibreOffice.adml:1066
 msgid "Currency code:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1184
+#: en-US/LibreOffice.adml:1071
 msgid "Decimal separator key same as locale setting"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1188
+#: en-US/LibreOffice.adml:1075
 msgid "Ignore system input language"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:1220
+#: en-US/LibreOffice.adml:1107
 msgid "Macro security level:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1228
+#: en-US/LibreOffice.adml:1115
 msgid "Check document events"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1236
+#: en-US/LibreOffice.adml:1123
 msgid "Document macros are always executed, if they have been opened from one of the following locations."
 msgstr ""
 
+#. (itstool) path: textBox/label
+#: en-US/LibreOffice.adml:1125
+msgid "Path list:"
+msgstr ""
+
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1243
+#: en-US/LibreOffice.adml:1130
 msgid "Disable ADO Rowset XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1247
+#: en-US/LibreOffice.adml:1134
 msgid "Disable AbiWord Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1251
+#: en-US/LibreOffice.adml:1138
 msgid "Disable Apple Keynote 5"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1255
+#: en-US/LibreOffice.adml:1142
 msgid "Disable Apple Numbers 2"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1259
+#: en-US/LibreOffice.adml:1146
 msgid "Disable Apple Pages 4"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1263
+#: en-US/LibreOffice.adml:1150
 msgid "Disable BMP - Windows Bitmap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1267
+#: en-US/LibreOffice.adml:1154
 msgid "Disable BroadBand eBook"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1271
+#: en-US/LibreOffice.adml:1158
 msgid "Disable CGM - Computer Graphics Metafile"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1275
+#: en-US/LibreOffice.adml:1162
 msgid "Disable ClarisWorks/AppleWorks Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1279
+#: en-US/LibreOffice.adml:1166
 msgid "Disable ClarisWorks/AppleWorks Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1283
+#: en-US/LibreOffice.adml:1170
 msgid "Disable ClarisWorks/AppleWorks Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1287
+#: en-US/LibreOffice.adml:1174
 msgid "Disable ClarisWorks/AppleWorks Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1291
+#: en-US/LibreOffice.adml:1178
 msgid "Disable ClarisResolve Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1295
+#: en-US/LibreOffice.adml:1182
 msgid "Disable Corel Draw"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1299
+#: en-US/LibreOffice.adml:1186
 msgid "Disable Corel Presentation Exchange"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1303
+#: en-US/LibreOffice.adml:1190
 msgid "Disable Data Interchange Format"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1307
+#: en-US/LibreOffice.adml:1194
 msgid "Disable DXF - AutoCAD Interchange Format"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1311
+#: en-US/LibreOffice.adml:1198
 msgid "Disable DocBook"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1315
+#: en-US/LibreOffice.adml:1202
 msgid "Disable Microsoft Word for DOS"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1319
+#: en-US/LibreOffice.adml:1206
 msgid "Disable EMF - Enhanced Metafile"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1323
+#: en-US/LibreOffice.adml:1210
 msgid "Disable EPS - Encapsulated PostScript"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1327
+#: en-US/LibreOffice.adml:1214
 msgid "Disable FictionBook 2.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1331
+#: en-US/LibreOffice.adml:1218
 msgid "Disable Adobe/Macromedia Freehand"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1335
+#: en-US/LibreOffice.adml:1222
 msgid "Disable GIF - Graphics Interchange Format"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1339
+#: en-US/LibreOffice.adml:1226
 msgid "Disable HTML Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1343
+#: en-US/LibreOffice.adml:1230
 msgid "Disable HTML Document (Calc)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1347
+#: en-US/LibreOffice.adml:1234
 msgid "Disable HTML Document (Writer)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1351
+#: en-US/LibreOffice.adml:1238
 msgid "Disable JPEG - Joint Photographic Experts Group"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1355
+#: en-US/LibreOffice.adml:1242
 msgid "Disable Lotus 1-2-3"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1359
+#: en-US/LibreOffice.adml:1246
 msgid "Disable Lotus WordPro Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1363
+#: en-US/LibreOffice.adml:1250
 msgid "Disable MET - OS/2 Metafile"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1367
+#: en-US/LibreOffice.adml:1254
 msgid "Disable Microsoft Excel 2003 XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1371
+#: en-US/LibreOffice.adml:1258
 msgid "Disable Microsoft Excel 4.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1375
+#: en-US/LibreOffice.adml:1262
 msgid "Disable Microsoft Excel 4.0 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1379
+#: en-US/LibreOffice.adml:1266
 msgid "Disable Microsoft Excel 5.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1383
+#: en-US/LibreOffice.adml:1270
 msgid "Disable Microsoft Excel 5.0 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1387
+#: en-US/LibreOffice.adml:1274
 msgid "Disable Microsoft Excel 95"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1391
+#: en-US/LibreOffice.adml:1278
 msgid "Disable Microsoft Excel 95 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1395
+#: en-US/LibreOffice.adml:1282
 msgid "Disable Microsoft Excel 97-2003"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1399
+#: en-US/LibreOffice.adml:1286
 msgid "Disable Microsoft Excel 97-2003 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1403
+#: en-US/LibreOffice.adml:1290
 msgid "Disable Microsoft PowerPoint 97-2003"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1407
+#: en-US/LibreOffice.adml:1294
 msgid "Disable Microsoft PowerPoint 97-2003 AutoPlay"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1411
+#: en-US/LibreOffice.adml:1298
 msgid "Disable Microsoft PowerPoint 97-2003 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1415
+#: en-US/LibreOffice.adml:1302
 msgid "Disable Microsoft WinWord 1/2/5"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1419
+#: en-US/LibreOffice.adml:1306
 msgid "Disable Microsoft Word 6.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1423
+#: en-US/LibreOffice.adml:1310
 msgid "Disable Microsoft Word 2003 XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1427
+#: en-US/LibreOffice.adml:1314
 msgid "Disable Microsoft Word 2007-2013 XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1431
+#: en-US/LibreOffice.adml:1318
 msgid "Disable Microsoft Word 2007-2013 XML Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1435
+#: en-US/LibreOffice.adml:1322
 msgid "Disable Microsoft Word 2007-2013 XML VBA"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1439
+#: en-US/LibreOffice.adml:1326
 msgid "Disable Microsoft Word 95"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1443
+#: en-US/LibreOffice.adml:1330
 msgid "Disable Microsoft Word 95 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1447
+#: en-US/LibreOffice.adml:1334
 msgid "Disable Microsoft Word 97-2003"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1451
+#: en-US/LibreOffice.adml:1338
 msgid "Disable Microsoft Word 97-2003 Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1455
-#: en-US/LibreOffice.adml:1459
+#: en-US/LibreOffice.adml:1342
+#: en-US/LibreOffice.adml:1346
 msgid "Disable Microsoft Works Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1463
+#: en-US/LibreOffice.adml:1350
 msgid "Disable Microsoft Write"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1467
+#: en-US/LibreOffice.adml:1354
 msgid "Disable Legacy Mac Bitmap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1471
+#: en-US/LibreOffice.adml:1358
 msgid "Disable Legacy Mac Database"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1475
+#: en-US/LibreOffice.adml:1362
 msgid "Disable Legacy Mac Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1479
+#: en-US/LibreOffice.adml:1366
 msgid "Disable Legacy Mac Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1483
+#: en-US/LibreOffice.adml:1370
 msgid "Disable Legacy Mac Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1487
+#: en-US/LibreOffice.adml:1374
 msgid "Disable Legacy Mac Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1491
+#: en-US/LibreOffice.adml:1378
 msgid "Disable MacWrite Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1495
+#: en-US/LibreOffice.adml:1382
 msgid "Disable Microsoft Word for Mac (v1 - v5)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1499
+#: en-US/LibreOffice.adml:1386
 msgid "Disable Microsoft Works for Mac Text Document (v1 - v4)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1503
+#: en-US/LibreOffice.adml:1390
 msgid "Disable Microsoft Works for Mac Spreadsheet (v1 - v4)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1507
+#: en-US/LibreOffice.adml:1394
 msgid "Disable Mariner Write Mac Classic v1.6 - v3.5"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1511
+#: en-US/LibreOffice.adml:1398
 msgid "Disable MathML 2.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1515
+#: en-US/LibreOffice.adml:1402
 msgid "Disable MathType3.x"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1519
+#: en-US/LibreOffice.adml:1406
 msgid "Disable Flat XML ODF Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1523
+#: en-US/LibreOffice.adml:1410
 msgid "Disable Flat XML ODF Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1527
+#: en-US/LibreOffice.adml:1414
 msgid "Disable Flat XML ODF Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1531
+#: en-US/LibreOffice.adml:1418
 msgid "Disable Flat XML ODF Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1535
+#: en-US/LibreOffice.adml:1422
 msgid "Disable Office Open XML Text"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1539
+#: en-US/LibreOffice.adml:1426
 msgid "Disable Office Open XML Text Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1543
+#: en-US/LibreOffice.adml:1430
 msgid "Disable PBM - Portable Bitmap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1547
+#: en-US/LibreOffice.adml:1434
 msgid "Disable PCT - Mac Pict"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1551
+#: en-US/LibreOffice.adml:1438
 msgid "Disable PCX - Zsoft Paintbrush"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1555
+#: en-US/LibreOffice.adml:1442
 msgid "Disable PGM - Portable Graymap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1559
+#: en-US/LibreOffice.adml:1446
 msgid "Disable PNG - Portable Network Graphic"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1563
+#: en-US/LibreOffice.adml:1450
 msgid "Disable PPM - Portable Pixelmap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1567
+#: en-US/LibreOffice.adml:1454
 msgid "Disable PSD - Adobe Photoshop"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1571
+#: en-US/LibreOffice.adml:1458
 msgid "Disable Adobe PageMaker"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1575
+#: en-US/LibreOffice.adml:1462
 msgid "Disable PalmDoc eBook"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1579
+#: en-US/LibreOffice.adml:1466
 msgid "Disable Palm Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1583
+#: en-US/LibreOffice.adml:1470
 msgid "Disable Plucker eBook"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1587
+#: en-US/LibreOffice.adml:1474
 msgid "Disable Microsoft PowerPoint 1-4 and 95's"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1591
+#: en-US/LibreOffice.adml:1478
 msgid "Disable Microsoft Publisher 98-2010"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1595
+#: en-US/LibreOffice.adml:1482
 msgid "Disable Quattro Pro 6.0"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1599
+#: en-US/LibreOffice.adml:1486
 msgid "Disable QuarkXPress"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1603
+#: en-US/LibreOffice.adml:1490
 msgid "Disable RAS - Sun Raster Image"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1607
+#: en-US/LibreOffice.adml:1494
 msgid "Disable Rich Text"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1611
+#: en-US/LibreOffice.adml:1498
 msgid "Disable Rich Text Format (Calc)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1615
+#: en-US/LibreOffice.adml:1502
 msgid "Disable SVG - Scalable Vector Graphics"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1619
+#: en-US/LibreOffice.adml:1506
 msgid "Disable SVM - StarView Metafile"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1623
+#: en-US/LibreOffice.adml:1510
 msgid "Disable SYLK"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1627
+#: en-US/LibreOffice.adml:1514
 msgid "Disable ODF Database Report"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1631
+#: en-US/LibreOffice.adml:1518
 msgid "Disable OpenOffice.org 1.0 Report Chart"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1635
+#: en-US/LibreOffice.adml:1522
 msgid "Disable Legacy StarOffice Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1639
+#: en-US/LibreOffice.adml:1526
 msgid "Disable Legacy StarOffice Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1643
+#: en-US/LibreOffice.adml:1530
 msgid "Disable Legacy StarOffice Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1647
+#: en-US/LibreOffice.adml:1534
 msgid "Disable Legacy StarOffice Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1651
+#: en-US/LibreOffice.adml:1538
 msgid "Disable ODF Database"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1655
+#: en-US/LibreOffice.adml:1542
 msgid "Disable OpenOffice.org 1.0 Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1659
+#: en-US/LibreOffice.adml:1546
 msgid "Disable OpenOffice.org 1.0 Chart"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1663
+#: en-US/LibreOffice.adml:1550
 msgid "Disable OpenOffice.org 1.0 Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1667
+#: en-US/LibreOffice.adml:1554
 msgid "Disable OpenOffice.org 1.0 Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1671
+#: en-US/LibreOffice.adml:1558
 msgid "Disable OpenOffice.org 1.0 Formula"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1675
+#: en-US/LibreOffice.adml:1562
 msgid "Disable OpenOffice.org 1.0 Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1679
+#: en-US/LibreOffice.adml:1566
 msgid "Disable T602 Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1683
+#: en-US/LibreOffice.adml:1570
 msgid "Disable TGA - Truevision Targa"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1687
+#: en-US/LibreOffice.adml:1574
 msgid "Disable TIFF - Tagged Image File Format"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1691
+#: en-US/LibreOffice.adml:1578
 msgid "Disable Text"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1695
+#: en-US/LibreOffice.adml:1582
 msgid "Disable Text (Writer/Web)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1699
+#: en-US/LibreOffice.adml:1586
 msgid "Disable Text CSV"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1703
+#: en-US/LibreOffice.adml:1590
 msgid "Disable Text - Choose Encoding"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1707
+#: en-US/LibreOffice.adml:1594
 msgid "Disable Text - Choose Encoding (Master Document)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1711
+#: en-US/LibreOffice.adml:1598
 msgid "Disable Text - Choose Encoding (Writer/Web)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1715
+#: en-US/LibreOffice.adml:1602
 msgid "Disable Unified Office Format presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1719
+#: en-US/LibreOffice.adml:1606
 msgid "Disable Unified Office Format spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1723
+#: en-US/LibreOffice.adml:1610
 msgid "Disable Unified Office Format text"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1727
+#: en-US/LibreOffice.adml:1614
 msgid "Disable Microsoft Visio 2000-2013"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1731
+#: en-US/LibreOffice.adml:1618
 msgid "Disable WMF - Windows Metafile"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1735
+#: en-US/LibreOffice.adml:1622
 msgid "Disable Lotus Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1739
+#: en-US/LibreOffice.adml:1626
 msgid "Disable QuattroPro Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1743
+#: en-US/LibreOffice.adml:1630
 msgid "Disable WordPerfect Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1747
+#: en-US/LibreOffice.adml:1634
 msgid "Disable WordPerfect Graphics"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1751
+#: en-US/LibreOffice.adml:1638
 msgid "Disable WriteNow Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1755
+#: en-US/LibreOffice.adml:1642
 msgid "Disable XBM - X Bitmap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1759
+#: en-US/LibreOffice.adml:1646
 msgid "Disable XPM - X PixMap"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1763
+#: en-US/LibreOffice.adml:1650
 msgid "Disable Zoner Callisto/Draw"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1767
+#: en-US/LibreOffice.adml:1654
 msgid "Disable ODF Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1771
+#: en-US/LibreOffice.adml:1658
 msgid "Disable ODF Spreadsheet Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1775
+#: en-US/LibreOffice.adml:1662
 msgid "Disable Gnumeric Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1779
+#: en-US/LibreOffice.adml:1666
 msgid "Disable Web Page Query (Calc)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1783
+#: en-US/LibreOffice.adml:1670
 msgid "Disable Microsoft Excel 2007 Binary"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1787
+#: en-US/LibreOffice.adml:1674
 msgid "Disable Microsoft Excel 2007-2016 XML (macro enabled)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1791
+#: en-US/LibreOffice.adml:1678
 msgid "Disable Microsoft Excel 2007-2013 XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1795
+#: en-US/LibreOffice.adml:1682
 msgid "Disable Microsoft Excel 2007-2013 XML Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1799
+#: en-US/LibreOffice.adml:1686
 msgid "Disable Office Open XML Spreadsheet"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1803
+#: en-US/LibreOffice.adml:1690
 msgid "Disable Office Open XML Spreadsheet Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1807
+#: en-US/LibreOffice.adml:1694
 msgid "Disable OpenOffice.org 1.0 Spreadsheet Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1811
+#: en-US/LibreOffice.adml:1698
 msgid "Disable ODF Chart"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1815
+#: en-US/LibreOffice.adml:1702
 msgid "Disable dBASE"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1819
+#: en-US/LibreOffice.adml:1706
 msgid "Disable ODF Drawing"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1823
+#: en-US/LibreOffice.adml:1710
 msgid "Disable ODF Drawing Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1827
+#: en-US/LibreOffice.adml:1714
 msgid "Disable PCD - Kodak Photo CD (768x512)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1831
+#: en-US/LibreOffice.adml:1718
 msgid "Disable PCD - Kodak Photo CD (192x128)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1835
+#: en-US/LibreOffice.adml:1722
 msgid "Disable PCD - Kodak Photo CD (384x256)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1839
+#: en-US/LibreOffice.adml:1726
 msgid "Disable OpenOffice.org 1.0 Drawing Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1843
+#: en-US/LibreOffice.adml:1730
 msgid "Disable ODF Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1847
+#: en-US/LibreOffice.adml:1734
 msgid "Disable ODF Drawing (Impress)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1851
+#: en-US/LibreOffice.adml:1738
 msgid "Disable ODF Presentation Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1855
+#: en-US/LibreOffice.adml:1742
 msgid "Disable Microsoft PowerPoint 2007-2013 XML"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1859
+#: en-US/LibreOffice.adml:1746
 msgid "Disable Microsoft PowerPoint 2007-2013 XML AutoPlay"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1863
+#: en-US/LibreOffice.adml:1750
 msgid "Disable Microsoft PowerPoint 2007-2013 XML Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1867
+#: en-US/LibreOffice.adml:1754
 msgid "Disable Microsoft PowerPoint 2007-2013 XML VBA"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1871
+#: en-US/LibreOffice.adml:1758
 msgid "Disable Office Open XML Presentation"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1875
+#: en-US/LibreOffice.adml:1762
 msgid "Disable Office Open XML Presentation AutoPlay"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1879
+#: en-US/LibreOffice.adml:1766
 msgid "Disable Office Open XML Presentation Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1883
+#: en-US/LibreOffice.adml:1770
 msgid "Disable OpenOffice.org 1.0 Drawing (Impress)"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1887
+#: en-US/LibreOffice.adml:1774
 msgid "Disable OpenOffice.org 1.0 Presentation Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1891
+#: en-US/LibreOffice.adml:1778
 msgid "Disable ODF Formula"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1895
+#: en-US/LibreOffice.adml:1782
 msgid "Disable MOV - QuickTime File Format"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1899
+#: en-US/LibreOffice.adml:1786
 msgid "Disable ODF Text Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1903
+#: en-US/LibreOffice.adml:1790
 msgid "Disable ODF Text Document Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1907
+#: en-US/LibreOffice.adml:1794
 msgid "Disable Hangul WP 97"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1911
+#: en-US/LibreOffice.adml:1798
 msgid "Disable OpenOffice.org 1.0 Text Document Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1915
+#: en-US/LibreOffice.adml:1802
 msgid "Disable OpenOffice.org 1.0 Master Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1919
+#: en-US/LibreOffice.adml:1806
 msgid "Disable Help content"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1923
+#: en-US/LibreOffice.adml:1810
 msgid "Disable OpenOffice.org 1.0 HTML Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1927
+#: en-US/LibreOffice.adml:1814
 msgid "Disable ODF Master Document"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1931
+#: en-US/LibreOffice.adml:1818
 msgid "Disable ODF Master Document Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1935
+#: en-US/LibreOffice.adml:1822
 msgid "Disable HTML Document Template"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1939
+#: en-US/LibreOffice.adml:1826
 msgid "Case sensitive"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1955
+#: en-US/LibreOffice.adml:1842
 msgid "Enable regular expressions in formulas"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1959
+#: en-US/LibreOffice.adml:1846
 msgid "Enable wildcards in formulas"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1971
+#: en-US/LibreOffice.adml:1858
 msgid "Print empty pages"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:1979
+#: en-US/LibreOffice.adml:1866
 msgid "Use English function names"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:1983
+#: en-US/LibreOffice.adml:1870
 msgid "Recalculation on file load"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:1984
+#: en-US/LibreOffice.adml:1871
 msgid "Excel 2007 and newer:"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:1986
+#: en-US/LibreOffice.adml:1873
 msgid "ODF spreadsheet (not saved by LibreOffice):"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:1994
+#: en-US/LibreOffice.adml:1881
 msgid "Icon style:"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:1996
+#: en-US/LibreOffice.adml:1883
 msgid "Icon size:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2000
+#: en-US/LibreOffice.adml:1887
 msgid "Allow use of OpenCL"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2004
+#: en-US/LibreOffice.adml:1891
 msgid "Use OpenGL for all rendering"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2008
+#: en-US/LibreOffice.adml:1895
 msgid "Force OpenGL even if blacklisted"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2012
+#: en-US/LibreOffice.adml:1899
 msgid "Use Skia graphics for all rendering"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2016
+#: en-US/LibreOffice.adml:1903
 msgid "Force usage of Skia graphics even if blacklisted"
 msgstr ""
 
 #. (itstool) path: presentation/text
-#: en-US/LibreOffice.adml:2024
+#: en-US/LibreOffice.adml:1911
 msgid "Specifies if a warning should be displayed in case the printout contains transparent objects."
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2025
+#: en-US/LibreOffice.adml:1912
 msgid "Transparency"
 msgstr ""
 
 #. (itstool) path: presentation/decimalTextBox
-#: en-US/LibreOffice.adml:2047
+#: en-US/LibreOffice.adml:1934
 msgid "seconds"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:2063
+#: en-US/LibreOffice.adml:1950
 msgid "Browser:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2067
+#: en-US/LibreOffice.adml:1954
 msgid "Use Font Substitutions table"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2069
+#: en-US/LibreOffice.adml:1956
 msgid "Hide Tools - Options - LibreOffice - Fonts page"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2072
+#: en-US/LibreOffice.adml:1959
 msgid "Always"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2073
+#: en-US/LibreOffice.adml:1960
 msgid "On Screen Only"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:2075
+#: en-US/LibreOffice.adml:1962
 msgid "Replace Font:"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:2078
+#: en-US/LibreOffice.adml:1965
 msgid "Substitute Font:"
 msgstr ""
 
 #. (itstool) path: presentation/dropdownList
-#: en-US/LibreOffice.adml:2083
+#: en-US/LibreOffice.adml:1970
 msgid "PDF version:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2095
+#: en-US/LibreOffice.adml:1982
 msgid "Extended Tips"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2107
+#: en-US/LibreOffice.adml:1994
 msgid "Create bulleted and numbered lists while type"
 msgstr ""
 
 #. (itstool) path: textBox/label
-#: en-US/LibreOffice.adml:2112
+#: en-US/LibreOffice.adml:1999
 msgid "Min Words:"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2117
+#: en-US/LibreOffice.adml:2004
 msgid "Reorganize Form menu to have it MS compatible"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2125
+#: en-US/LibreOffice.adml:2012
 msgid "Recognize numbers in tables"
 msgstr ""
 
 #. (itstool) path: presentation/checkBox
-#: en-US/LibreOffice.adml:2129
+#: en-US/LibreOffice.adml:2016
 msgid "Enable update check"
 msgstr ""
 
